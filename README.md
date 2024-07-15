@@ -1,9 +1,9 @@
 # Bisman05.github.io
 ## Activity Program of Induction 2024
-	| Syntax | Yo Yo Baby |
+| Syntax | Solo 05 |
 | ----------- | ----------- |
 | Header | Title |
-| Resource person | Pyara Lal Garg |
+| Ki haal chaal dosto | Text |
 
 
 
